@@ -1,0 +1,20 @@
+{
+  "name": "angular-express",
+  "version": "1.0.0",
+  "description": "Simple skeleton for a web application with Angular, Express, Grunt. No Bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express-server": "^0.5.1",
+    "load-grunt-tasks": "^3.2.0"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
